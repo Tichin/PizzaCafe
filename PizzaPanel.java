@@ -32,6 +32,7 @@ public class PizzaPanel extends JPanel
    // private JButton finish;//push when order finished
    private final int LARGE_PIZZA_PRICE=10,MEDIUM_PIZZA_PRICE=8,SMALL_PIZZA_PRICE=6;
   
+   
    public PizzaPanel()
    {
               
