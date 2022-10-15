@@ -6,7 +6,7 @@
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
-import java.util.ArrayList;
+// import java.util.ArrayList;
 
 
 public class SpecialItemPanel extends JPanel
@@ -26,7 +26,7 @@ public class SpecialItemPanel extends JPanel
    private int num1,num2,num3,num4,num5,num6,sum;
    private JLabel item1,item2,item3,item4,item5,item6;
    private JLabel instruction;
-   private JButton finish;//push when order finished
+   // private JButton finish;//push when order finished
    private final int BREAD_PRICE=7,CHICKEN_PRICE=12,SALAD_PRICE=8,BROWNIE_PRICE=7;
    private final int CHEESECAKE_PRICE=5,GELATO_PRICE=5;
    

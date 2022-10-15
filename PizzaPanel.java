@@ -6,7 +6,7 @@
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
-import java.util.ArrayList;
+// import java.util.ArrayList;
 
 
 public class PizzaPanel extends JPanel
@@ -29,7 +29,7 @@ public class PizzaPanel extends JPanel
    private JLabel itemLC,itemLN,itemLH,itemMC,itemMN,itemMH,itemSC,itemSN,itemSH;
    private JLabel instruction;
    private int sum;// total price of the pizzas.
-   private JButton finish;//push when order finished
+   // private JButton finish;//push when order finished
    private final int LARGE_PIZZA_PRICE=10,MEDIUM_PIZZA_PRICE=8,SMALL_PIZZA_PRICE=6;
   
    public PizzaPanel()
